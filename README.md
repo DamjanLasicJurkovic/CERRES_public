@@ -1,6 +1,6 @@
-´´´
-![Image](src)
-´´´
+
+![Image](https://raw.githubusercontent.com/DamjanLasicJurkovic/CERRES_public/master/CERRES_logo_webpage.png)
+
 
 ### CERRES (Chemical Reaction and Reactor Engineering Simulations)
 
