@@ -31,5 +31,3 @@ Hajdrihova 19
 1000 Ljubljana
 Slovenia
 e-mail: #############
-
-
