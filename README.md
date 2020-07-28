@@ -24,13 +24,13 @@ Afterwards, you will be able to download the latest release on the [CERRES githu
 ## Contact
 Main CERRES developer:
 
-Damjan Lašič Jurković
-Department of Catalysis and Chemical Reaction Engineering
-National Institute of Chemistry
-Hajdrihova 19
-1000 Ljubljana
-Slovenia
-e-mail: #############
+Damjan Lašič Jurković\
+Department of Catalysis and Chemical Reaction Engineering\\
+National Institute of Chemistry\
+Hajdrihova 19\
+1000 Ljubljana\
+Slovenia\
+e-mail: #############\
 
 
 ## Coming soon
