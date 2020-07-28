@@ -1,6 +1,7 @@
 
 ![Image](https://raw.githubusercontent.com/DamjanLasicJurkovic/CERRES_public/master/CERRES_logo_webpage.png)
 
+### First release / Beta version coming soon
 
 ### CERRES (Chemical Reaction and Reactor Engineering Simulations)
 
@@ -15,9 +16,10 @@ CERRES is and will remain free for any academic or personal use, we only require
 
 We are always happy to receive any feedback or suggestions for additional features!
 
-## Bla bla bla
+## Installation
+The open beta version of CERRES is to be released soon.
 
-You can download the latest release on the [CERRES github](https://github.com/DamjanLasicJurkovic/CERRES_public) under releases.
+Afterwards, you will be able to download the latest release on the [CERRES github](https://github.com/DamjanLasicJurkovic/CERRES_public) under releases.
 
 ## Contact
 Main CERRES developer:
