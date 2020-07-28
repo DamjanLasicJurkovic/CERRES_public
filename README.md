@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+´´´
+![Image](src)
+´´´
 
-You can use the [editor on GitHub](https://github.com/DamjanLasicJurkovic/CERRES_public/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### CERRES (Chemical Reaction and Reactor Engineering Simulations)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CERRES (Chemical Reaction and Reactor Engineering Simulations) is developed by Damjan Lašič Jurković at the Department of Catalysis and Chemical Reaction Engineering at the National Institute of Chemistry in Ljubljana, Slovenia.
 
-### Markdown
+The main features of the software are:
+- Efficient simulations of different chemical reactors with user-supplied chemical reaction data
+- Using the models for comparison with experiments, parameter optimization and sensitivity analysis
+- Usage through an intuitive and easy to use UI with no programming skills required
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+CERRES is and will remain free for any academic or personal use, we only require the users to cite the main CERRES paper (DOI:XXXXX) in any scientific publications containing results obtained by CERRES. Please see the license for more information.
 
-```markdown
-Syntax highlighted code block
+We are always happy to receive any feedback or suggestions for additional features!
 
-# Header 1
-## Header 2
-### Header 3
+## Bla bla bla
 
-- Bulleted
-- List
+You can download the latest release on the [CERRES github](https://github.com/DamjanLasicJurkovic/CERRES_public) under releases.
 
-1. Numbered
-2. List
+## Contact
+Main CERRES developer:
 
-**Bold** and _Italic_ and `Code` text
+Damjan Lašič Jurković
+Department of Catalysis and Chemical Reaction Engineering
+National Institute of Chemistry
+Hajdrihova 19
+1000 Ljubljana
+Slovenia
+e-mail: #############
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DamjanLasicJurkovic/CERRES_public/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
