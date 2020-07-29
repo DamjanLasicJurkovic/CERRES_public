@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: CERRES
 description: Chemical Reaction and Reactor Engineering Simulations
+plugins:
+  - jekyll-sitemap
