@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/DamjanLasicJurkovic/CERRES_public/master/CERRES_logo_webpage.png" alt="CERRES logo image">
 </p>
 
+<link rel="shortcut icon" type="image/x-icon" href="site_data/favicon.ico">
+
 ### First release / Beta version coming soon
 
 ### CERRES (Chemical Reaction and Reactor Engineering Simulations)
