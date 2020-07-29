@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/DamjanLasicJurkovic/CERRES_public/master/CERRES_logo_webpage.png" alt="CERRES logo image">
 </p>
 
-<link rel="icon" href="favicon.ico">
+<link rel="shortcut icon" href="favicon.ico">
 
 ### First release / Beta version coming soon
 
