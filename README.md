@@ -25,7 +25,7 @@ Efficient computation is one of the main focuses of the software, which allows f
 #### Ease of use
 The program is used exclusively through a user-friendly GUI, which requires no coding/scripting skills whatsoever. Furthermore, chemistry and experimental data editors are provided for easy preparation and handling of input files.
 #### Relevant examples from literature
-In addition, multiple relevant examples are included from literature references, which can also be used as a baseline for other models. We encourage users to submit their input files from publications, so we can include them in the examples for future releases, promoting the research, allowing for easy result reproduction and improving the example database.
+Multiple relevant examples from literature references are included, which can also be used as a baseline for other models. We encourage users to submit their input files from publications, so we can include them in the examples for future releases, promoting the research, allowing for easy result reproduction and improving the example database.
 
 ## Installation
 The open beta version of CERRES is not yet released, but will be available soon.
