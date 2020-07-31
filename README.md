@@ -14,11 +14,15 @@ CERRES is and will remain free for any academic or personal use, we only require
 We are always happy to receive any feedback, comments, bug reports or suggestions for additional features!
 
 ## Features
-### 1
+### Simulation of different types of chemical reactors
 
-### 2
+### Complex user-defined chemistry
 
-### 3
+### Model-experiment compare, parameter optimization, sensitivity analysis
+
+### Efficient computation
+
+### Relevant examples from literature
 
 ## Installation
 The open beta version of CERRES is not yet released, but will be available soon.
