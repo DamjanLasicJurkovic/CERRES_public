@@ -5,3 +5,7 @@ gems:
   - jekyll-sitemap
 plugins:
   - jekyll-sitemap
+  
+github:
+  zip_url: http://example.com/download.zip
+  another_url: google.com
