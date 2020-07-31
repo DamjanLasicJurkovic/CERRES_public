@@ -27,7 +27,9 @@ CERRES is supported for Microsoft Windows (7, 8.1 and 10) for x64 compatible arc
 - Download the installer of the [latest release](https://github.com/DamjanLasicJurkovic/CERRES_public/releases/latest)
 - Run the installer and complete all the steps
 - CERRES should now be ready to use
-- To test whether everything works correctly, run the program, the select the 'Run CERRES test' from the 'Help' menu
+- To test whether everything works correctly, run the program, the select 'Run CERRES test' from the 'Help' menu
+
+NOTE: The installer simultaneously installs the GNU GCC compiler (from the MinGW-w64 distribution), which is called by CERRES during execution. It is installed in the same folder and removed during CERRES uninstallation.
 
 ## License
 The usage of the program is free of charge for any academic or personal use, we only require the users to cite the main CERRES paper (not yet released) in any scientific publications containing results obtained by CERRES. For commercial/for-profit use, please contact the developers. Please see the [license](https://www.cerres.org/license.txt) for more information.
