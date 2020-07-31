@@ -4,25 +4,35 @@
 
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 
-### First release / Beta version coming soon
+## First release / Beta version coming soon!
 
-### CERRES (Chemical Reaction and Reactor Engineering Simulations)
-
-CERRES (Chemical Reaction and Reactor Engineering Simulations) is developed by Damjan Lašič Jurković at the Department of Catalysis and Chemical Reaction Engineering at the National Institute of Chemistry in Ljubljana, Slovenia.
-
-The main features of the software are:
-- Efficient simulations of different chemical reactors with user-supplied chemical reaction data
-- Using the models for comparison with experiments, parameter optimization and sensitivity analysis
-- Usage through an intuitive and easy to use UI with no programming skills required
+### About
+CERRES (Chemical Reaction and Reactor Engineering Simulations) is a program designed for the simulation of various types of chemical reactors under different operating conditions with user-supplied chemistry, allowing for complex bulk and surface reaction (micro)kinetics. Furthermore, it provides additional modes of operation such as the comparison of the model results to experimentally measured values and reaction rate parameter optimization (fitting). The main goals of the software are computing efficiency, ease of use and wide functionality. CERRES is being developed by Damjan Lašič Jurković at the Department of Catalysis and Chemical Reaction Engineering at the National Institute of Chemistry in Ljubljana, Slovenia.
 
 CERRES is and will remain free for any academic or personal use, we only require the users to cite the main CERRES paper (DOI:XXXXX) in any scientific publications containing results obtained by CERRES. Please see the license for more information.
 
-We are always happy to receive any feedback or suggestions for additional features!
+We are always happy to receive any feedback, comments, bug reports or suggestions for additional features!
 
-## Installation
-The open beta version of CERRES is to be released soon.
+### Features
+## 1
 
-Afterwards, you will be able to download the latest release on the [CERRES github](https://github.com/DamjanLasicJurkovic/CERRES_public) under releases.
+## 2
+
+## 3
+
+### Installation
+The open beta version of CERRES is not yet released, but will be available soon.
+
+CERRES is supported for Microsoft Windows (7, 8.1 and 10) for x64 compatible architectures. The installation procedure is as follows:
+- Download the installer of the [latest release](https://github.com/DamjanLasicJurkovic/CERRES_public/releases/latest)
+- Run the installer and complete all the steps
+- CERRES should now be ready to use
+- To test whether everything works correctly, run the program, the select the 'Run CERRES test' from the 'Help' menu
+
+### License
+The usage of the program is free of charge for any academic or personal use, we only require the users to cite the main CERRES paper (not yet released) in any scientific publications containing results obtained by CERRES. For commercial/for-profit use, please contact the developers. Please see the [license](https://www.cerres.org/license.txt) for more information.
+
+Bundled in the installer is also a pre-built GNU GCC compiler, which is covered under its own GNU GPL-type [license](https://www.cerres.org/license_gcc.txt). It's source code is available in the public CERRES repository on [GitHub](https://github.com/DamjanLasicJurkovic/CERRES_public).
 
 ## Contact
 Damjan Lašič Jurković<br>
