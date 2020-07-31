@@ -9,7 +9,7 @@
 ## About
 CERRES (Chemical Reaction and Reactor Engineering Simulations) is a program designed for the simulation of various types of chemical reactors under different operating conditions with user-supplied chemistry, allowing for complex bulk and surface reaction (micro)kinetics. Furthermore, it provides additional modes of operation such as the comparison of the model results to experimentally measured values and reaction rate parameter optimization (fitting). The main goals of the software are computing efficiency, ease of use and wide functionality. CERRES is being developed by Damjan Lašič Jurković at the Department of Catalysis and Chemical Reaction Engineering at the National Institute of Chemistry in Ljubljana, Slovenia.
 
-CERRES is and will remain free for any academic or personal use, we only require the users to cite the main CERRES paper (DOI:XXXXX) in any scientific publications containing results obtained by CERRES. Please see the license for more information.
+CERRES is and will remain free for any academic or personal use, we only require the users to cite the main CERRES paper (not yet released) in any scientific publications containing results obtained by CERRES. Please see the license for more information.
 
 We are always happy to receive any feedback, comments, bug reports or suggestions for additional features!
 
@@ -18,16 +18,16 @@ We are always happy to receive any feedback, comments, bug reports or suggestion
 The user can choose between a multitude of different reactor types, including simple batch reactors, CSTR reactors, plug flow reactors, 2D channel reactors and membrane reactors, some of which are supporting three-phase systems (gas, liquid and catalyst). Furthermore, there is a vast amount of different available mass transport phenomena to model in this reactor types, such as convective and diffusive/dispersive mass transport, intra- and extra-particle mass transfer limitations, phase transfer mass transfer limitations and permeation through a membrane.
 
 ### Complex user-defined chemistry
-The chemical reaction systems in CERRES are highly customaziable, allowing for complex networks of hundreds of surface and bulk reactions between different species. In addition, users can supply user-defined reaction rate expressions for each of the reactions.
+The chemical reaction systems in CERRES are highly customizable, allowing for complex networks of hundreds of surface and bulk reactions between different species. In addition, users can supply user-defined reaction rate expressions for each of the reactions.
 
 ### Model-experiment compare, parameter optimization, sensitivity analysis
-CERRES includes various additional modes of operation besides plain reactor simulations. Using measured experimental data, the model results can be easily compared to experiments, and parameter optimization can be performed to improve the model predictive power. Additionaly, sensitivity analysis can identify the most important reactions in the model network.
+CERRES includes various additional modes of operation besides plain reactor simulations. Using measured experimental data, the model results can be easily compared to experiments, and parameter optimization can be performed to improve the model predictive power. Additionally, sensitivity analysis can identify the most important reactions in the model network.
 
 ### Efficient computation
-Efficient computation is one of the main focuses of the software, which allows fast simulations even for large systems with highly stiff numerical characteristics. This is achieved through a powerful backend written in C, which includes powerful BDF solvers, multi-threading, atumatic generation of Jacobian matrices for the differential equations and on-the-fly dynamic generation and compilation of critical code segments.
+Efficient computation is one of the main focuses of the software, which allows fast simulations even for large systems with highly stiff numerical characteristics. This is achieved through a powerful backend written in C, which includes powerful BDF solvers, multi-threading, automatic generation of Jacobian matrices for the differential equations and on-the-fly dynamic generation and compilation of critical code segments.
 
 ### Ease of use
-The program is used exclusively through a user-friendly GUI, which requires no coding/sripting skills whatsoever. Furthermore, chemistry and experimental data editors are provided for easy preparation and handling of input files.
+The program is used exclusively through a user-friendly GUI, which requires no coding/scripting skills whatsoever. Furthermore, chemistry and experimental data editors are provided for easy preparation and handling of input files.
 
 ### Relevant examples from literature
 In addition, multiple relevant examples are included from literature references, which can also be used as a baseline for other models. We encourage users to submit their input files from publications, so we can include them in the examples for future releases, promoting the research, allowing for easy result reproduction and improving the example database.
