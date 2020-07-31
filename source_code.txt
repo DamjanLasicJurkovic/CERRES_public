@@ -1,0 +1,1 @@
+CERRES is a closed-source program, and as such it's source code is not available. The purpose of the CERRES_public repository is to maintain the webpage and the binary releases of the software.
