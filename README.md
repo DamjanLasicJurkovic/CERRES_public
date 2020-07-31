@@ -25,15 +25,16 @@ The open beta version of CERRES is to be released soon.
 Afterwards, you will be able to download the latest release on the [CERRES github](https://github.com/DamjanLasicJurkovic/CERRES_public) under releases.
 
 ## Contact
-Main CERRES developer:
+Damjan Lašič Jurković
 
-Damjan Lašič Jurković\
-Department of Catalysis and Chemical Reaction Engineering\
-National Institute of Chemistry\
-Hajdrihova 19\
-1000 Ljubljana\
-Slovenia\
-e-mail: #############\
+[Department of Catalysis and Chemical Reaction Engineering](https://www.ki.si/en/departments/d13-department-of-catalysis-and-chemical-reaction-engineering/)
 
+[National Institute of Chemistry](https://www.ki.si/en/)
 
-## Coming soon
+Hajdrihova 19
+
+1000 Ljubljana
+
+Slovenia
+
+e-mail: damjan.lasic@ki.si
