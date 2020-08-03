@@ -41,7 +41,9 @@ NOTE: The installer simultaneously installs the GNU GCC compiler (from the MinGW
 ## License
 The usage of the program is free of charge for any academic or personal use, we only require the users to cite the main CERRES paper (not yet released) in any scientific publications containing results obtained by CERRES. For commercial/for-profit use, please contact the developers. Please see the [license](https://www.cerres.org/license.txt) for more information.
 
-Bundled in the installer is also a pre-built GNU GCC compiler, which is covered under its own GNU GPL-type [license](https://www.cerres.org/license_gcc.txt). It's source code is available in the public CERRES repository on [GitHub](https://github.com/DamjanLasicJurkovic/CERRES_public).
+Bundled in the installer is also a pre-built GNU GCC compiler, which is covered under its own GNU GPL-type [license](https://www.cerres.org/license_gcc.txt). Its source code is available in the public CERRES repository on [GitHub](https://github.com/DamjanLasicJurkovic/CERRES_public).
+
+## Acknowledgments
 
 ## Contact
 Damjan Lašič Jurković<br>
