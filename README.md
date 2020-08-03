@@ -43,8 +43,6 @@ The usage of the program is free of charge for any academic or personal use, we 
 
 Bundled in the installer is also a pre-built GNU GCC compiler, which is covered under its own GNU GPL-type [license](https://www.cerres.org/license_gcc.txt). Its source code is available in the public CERRES repository on [GitHub](https://github.com/DamjanLasicJurkovic/CERRES_public).
 
-## Acknowledgments
-
 ## Contact
 Damjan Lašič Jurković<br>
 [Department of Catalysis and Chemical Reaction Engineering](https://www.ki.si/en/departments/d13-department-of-catalysis-and-chemical-reaction-engineering/)<br>
