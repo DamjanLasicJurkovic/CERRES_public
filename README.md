@@ -39,9 +39,9 @@ CERRES is supported for Microsoft Windows (7, 8.1 and 10) for x64 compatible arc
 NOTE: The installer simultaneously installs the GNU GCC compiler (from the MinGW-w64 distribution), which is called by CERRES during execution. It is installed in the same folder and removed during CERRES uninstallation.
 
 ## License
-The usage of the program is free of charge for any academic or personal use, we only require the users to cite the main CERRES paper (not yet released) in any scientific publications containing results obtained by CERRES. For commercial/for-profit use, please contact the developers. Please see the [license](https://www.cerres.org/license.txt) for more information.
+The usage of the program is free of charge for any academic or personal use, we only require the users to cite this webpage and later the main CERRES paper (not yet released) in any scientific publications containing results obtained by CERRES. For commercial/for-profit use, please contact the developers. Please see the [CERRES license](https://www.cerres.org/LICENSE_CERRES.txt) for more information.
 
-Bundled in the installer is also a pre-built GNU GCC compiler, which is covered under its own GNU GPL-type [license](https://www.cerres.org/license_gcc.txt). Its source code is available in the public CERRES repository on [GitHub](https://github.com/DamjanLasicJurkovic/CERRES_public).
+Bundled in the installer is also a pre-built GNU GCC compiler (MingGW-w64 distribution), which is covered under its own GNU GPL-type [license](https://www.cerres.org/LICENSE_MinGW-w64.txt). Its source code is available in the public CERRES repository on [GitHub](https://github.com/DamjanLasicJurkovic/CERRES_public) (mingw-w64-v7.0.0.zip).
 
 ## Contact
 Damjan Lašič Jurković<br>
