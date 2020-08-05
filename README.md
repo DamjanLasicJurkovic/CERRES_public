@@ -51,4 +51,4 @@ Hajdrihova 19<br>
 1000 Ljubljana<br>
 Slovenia<br>
 e-mail: damjan.lasic@ki.si<br>
-![KI logo](https://raw.githubusercontent.com/DamjanLasicJurkovic/CERRES_public/master/KI_logo.png)
+![KI logo](https://raw.githubusercontent.com/DamjanLasicJurkovic/CERRES_public/master/KI_logo_small.png)
