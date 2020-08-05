@@ -40,7 +40,7 @@ The usage of the program is free of charge for any academic, educational or pers
 Bundled in the installer is also a pre-built GNU GCC compiler (MingGW-w64 distribution), which is covered under its own GNU GPL-type [license](https://www.cerres.org/LICENSE_MinGW-w64.txt). Its source code is available in the public CERRES repository on [GitHub](https://github.com/DamjanLasicJurkovic/CERRES_public) (mingw-w64-v7.0.0.zip).
 
 ## Acknowledgments
-We are thankful to the developers of [open-source projects used by CERRES](https://www.cerres.org/libs.md).
+We are thankful to the developers of [open-source projects used by CERRES](https://www.cerres.org/libs.html).
 
 ## Contact
 We are always happy to receive any feedback, comments, bug reports or suggestions for additional features!
