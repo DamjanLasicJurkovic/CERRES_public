@@ -9,13 +9,9 @@
 ## About
 CERRES (Chemical Reaction and Reactor Engineering Simulations) is a program designed for the simulation of various types of chemical reactors under different operating conditions with user-supplied chemistry, allowing for complex bulk and surface reaction (micro)kinetics. Furthermore, it provides additional modes of operation such as the comparison of the model results to experimentally measured values and reaction rate parameter optimization (fitting). The main goals of the software are computing efficiency, ease of use and wide functionality. CERRES is being developed by Damjan Lašič Jurković at the Department of Catalysis and Chemical Reaction Engineering at the National Institute of Chemistry in Ljubljana, Slovenia.
 
-CERRES is and will remain free for any academic or personal use, we only require the users to cite the main CERRES paper (not yet released) in any scientific publications containing results obtained by CERRES. Please see the license for more information.
-
-We are always happy to receive any feedback, comments, bug reports or suggestions for additional features!
-
 ## Features
 #### Simulation of different types of chemical reactors
-The user can choose between a multitude of different reactor types, including simple batch reactors, CSTR reactors, plug flow reactors, 2D channel reactors and membrane reactors, some of which are supporting three-phase systems (gas, liquid and catalyst). Furthermore, there is a vast amount of different available mass transport phenomena to model in this reactor types, such as convective and diffusive/dispersive mass transport, intra- and extra-particle mass transfer limitations, phase transfer mass transfer limitations and permeation through a membrane.
+The user can choose between a multitude of different reactor types, including simple batch reactors, CSTR reactors, plug flow reactors, 2D channel reactors and membrane reactors, some of which are supporting three-phase systems (gas, liquid and catalyst). Furthermore, there is a vast amount of different available mass transport phenomena to model in these reactor types, such as convective and diffusive/dispersive mass transport, intra- and extra-particle mass transfer limitations, phase transfer mass transfer limitations and permeation through a membrane.
 #### Complex user-defined chemistry
 The chemical reaction systems in CERRES are highly customizable, allowing for complex networks of hundreds of surface and bulk reactions between different species. In addition, users can supply user-defined reaction rate expressions for each of the reactions.
 #### Model-experiment compare, parameter optimization, sensitivity analysis
@@ -34,16 +30,18 @@ CERRES is supported for Microsoft Windows (7, 8.1 and 10) for x64 compatible arc
 - Download the installer of the [latest release](https://github.com/DamjanLasicJurkovic/CERRES_public/releases/latest)
 - Run the installer and complete all the steps
 - CERRES should now be ready to use
-- To test whether everything works correctly, run the program, the select 'Run CERRES test' from the 'Help' menu
+- To test whether everything works correctly, run the program, then select 'Run CERRES test' from the 'Help' menu
 
 NOTE: The installer simultaneously installs the GNU GCC compiler (from the MinGW-w64 distribution), which is called by CERRES during execution. It is installed in the same folder and removed during CERRES uninstallation.
 
 ## License
-The usage of the program is free of charge for any academic or personal use, we only require the users to cite this webpage and later the main CERRES paper (not yet released) in any scientific publications containing results obtained by CERRES. For commercial/for-profit use, please contact the developers. Please see the [CERRES license](https://www.cerres.org/LICENSE_CERRES.txt) for more information.
+The usage of the program is free of charge for any academic, educational or personal use, we only require the users to cite this webpage and later the main CERRES paper (not yet released) in any scientific publications containing results obtained by the program. For commercial/for-profit use, please contact the developers. Please see the [CERRES license](https://www.cerres.org/LICENSE_CERRES.txt) for more information.
 
 Bundled in the installer is also a pre-built GNU GCC compiler (MingGW-w64 distribution), which is covered under its own GNU GPL-type [license](https://www.cerres.org/LICENSE_MinGW-w64.txt). Its source code is available in the public CERRES repository on [GitHub](https://github.com/DamjanLasicJurkovic/CERRES_public) (mingw-w64-v7.0.0.zip).
 
 ## Contact
+We are always happy to receive any feedback, comments, bug reports or suggestions for additional features!
+
 Damjan Lašič Jurković<br>
 [Department of Catalysis and Chemical Reaction Engineering](https://www.ki.si/en/departments/d13-department-of-catalysis-and-chemical-reaction-engineering/)<br>
 [National Institute of Chemistry](https://www.ki.si/en/)<br>
