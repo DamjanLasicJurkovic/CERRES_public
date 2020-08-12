@@ -4,8 +4,6 @@
 
 <link rel="shortcut icon" type="image/ico" href="favicon.ico">
 
-## First release / Beta version coming soon!
-
 ## About
 CERRES (Chemical Reaction and Reactor Engineering Simulations) is a program designed for the simulation of various types of chemical reactors under different operating conditions with user-supplied chemistry, allowing for complex bulk and surface reaction (micro)kinetics. Furthermore, it provides additional modes of operation such as the comparison of the model results to experimentally measured values and reaction rate parameter optimization (fitting). The main goals of the software are computing efficiency, ease of use and wide functionality. CERRES is being developed by Damjan Lašič Jurković at the Department of Catalysis and Chemical Reaction Engineering at the National Institute of Chemistry in Ljubljana, Slovenia. Most of the software (including the UI) is written in Python while the computational backend is implemented in C.
 
@@ -24,10 +22,8 @@ The program is used exclusively through a user-friendly GUI, which requires no c
 Multiple relevant examples from literature references are included, which can also be used as a baseline for other models. We encourage users to submit their input files from publications, so we can include them in the examples for future releases, promoting the research, allowing for easy result reproduction and improving the example database.
 
 ## Installation
-The open beta version of CERRES is not yet released, but will be available soon.
-
-CERRES is supported for Microsoft Windows (7, 8.1 and 10) for x64 compatible architectures. The installation procedure is as follows:
-- Download the installer of the [latest release](https://github.com/DamjanLasicJurkovic/CERRES_public/releases/latest)
+CERRES is supported for Microsoft Windows (7, 8.1 and 10) for x64 compatible architectures. Please note that currently a beta version is available, so some bugs may still be present. The installation procedure is as follows:
+- Download the installer (above)
 - Run the installer and complete all the steps
 - CERRES should now be ready to use
 - To test whether everything works correctly, run the program, then select 'Run CERRES test' from the 'Help' menu
