@@ -15,7 +15,7 @@ The chemical reaction systems in CERRES are highly customizable, allowing for co
 #### Model-experiment compare, parameter optimization, sensitivity analysis
 CERRES includes various additional modes of operation besides plain reactor simulations. Using measured experimental data, the model results can be easily compared to experiments, and parameter optimization can be performed to improve the model predictive power. Additionally, sensitivity analysis can identify the most important reactions in the model network.
 #### Efficient computation
-Efficient computation is one of the main focuses of the software, which allows fast simulations even for large systems with highly stiff numerical characteristics. This is achieved through a powerful backend written in C, which includes powerful BDF solvers, multi-threading, automatic generation of Jacobian matrices for the differential equations and on-the-fly dynamic generation and compilation of critical code segments.
+Efficient computation is one of the main focuses of the software, which allows fast simulations even for large systems with highly stiff numerical characteristics. This is achieved through a powerful backend written in C, which includes robust BDF solvers, multi-threading, automatic generation of Jacobian matrices for the differential equations and on-the-fly dynamic generation and compilation of critical code segments.
 #### Ease of use
 The program is used exclusively through a user-friendly GUI, which requires no coding/scripting skills whatsoever. Furthermore, chemistry and experimental data editors are provided for easy preparation and handling of input files.
 #### Relevant examples from literature
