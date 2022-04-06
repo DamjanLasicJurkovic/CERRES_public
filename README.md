@@ -41,11 +41,15 @@ We are thankful to the developers of [open-source projects used by CERRES](https
 ## Contact
 We are always happy to receive any feedback, comments, bug reports or suggestions for additional features!
 
-Damjan Lašič Jurković<br>
+While CERRES is still maintained by Damjan Lašič Jurković, he is no longer employed at National Institute of Chemistry. You can contact him via damjan.lasic@gmail.com. It is preferred to send any feedback, suggestions, discussion or bug reports to this e-mail.
+
+For more official enquiries, such as commercial use, please contact the department head:
+
+prof. dr. Blaž Likozar<br>
 [Department of Catalysis and Chemical Reaction Engineering](https://www.ki.si/en/departments/d13-department-of-catalysis-and-chemical-reaction-engineering/)<br>
 [National Institute of Chemistry](https://www.ki.si/en/)<br>
 Hajdrihova 19<br>
 1000 Ljubljana<br>
 Slovenia<br>
-e-mail: damjan.lasic@ki.si<br>
+e-mail: blaz.likozar@ki.si<br>
 ![KI logo](https://raw.githubusercontent.com/DamjanLasicJurkovic/CERRES_public/master/KI_logo_small.png)
